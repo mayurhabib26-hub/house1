@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ivory: #F5F1E8;
+  --color-forest: #263D32;
+  --color-gold: #D0B787;
+  --color-sage: #A7B3A0;
+  --color-charcoal: #333832;
+  --color-stone-warm: #E5DFD2;
+  --color-muted-grey: #77786F;
+  --font-serif: "Playfair Display", Georgia, serif;
+  --font-sans: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+}
+
+@layer base {
+  body {
+    background-color: #F5F1E8;
+    color: #333832;
+    font-family: var(--font-sans);
+  }
+
+  h1, h2, h3, h4, .font-display {
+    font-family: var(--font-serif);
+  }
+}
+
+/* Subtle luxury patterns and textures */
+.bg-subtle-pattern {
+  background-image: radial-gradient(#263D32 0.75px, transparent 0.75px);
+  background-size: 24px 24px;
+  background-color: #F5F1E8;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+

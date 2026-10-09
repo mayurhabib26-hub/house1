@@ -1,0 +1,6 @@
+{
+  "name": "Pista House London",
+  "description": "Authentic Hyderabadi cuisine in East Ham, London. Featuring Dum Biryani, Mandi, Signature Haleem, Grilled Kebabs, Irani Chai, and Desserts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
