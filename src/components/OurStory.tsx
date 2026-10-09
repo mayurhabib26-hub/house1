@@ -24,7 +24,7 @@ export const OurStory: React.FC<OurStoryProps> = ({ onExploreMenu }) => {
               <div className="relative rounded-2xl overflow-hidden border border-[#E5DFD2] bg-white p-2.5 shadow-xl">
                 <div className="relative aspect-4/3 rounded-xl overflow-hidden bg-[#E5DFD2]/40">
                   <img
-                    src="/src/assets/images/dish_hyderabadi_mandi_1791539424987.jpg"
+                    src="/images/dish_hyderabadi_mandi_1791539424987.jpg"
                     alt="Pista House London dining experience featuring royal mandi feast platter"
                     className="w-full h-full object-cover"
                     loading="lazy"

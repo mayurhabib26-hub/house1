@@ -157,7 +157,7 @@ export const Hero: React.FC<HeroProps> = ({ onExploreMenu, onCallOrder }) => {
               <div className="relative rounded-2xl overflow-hidden p-2 bg-white/70 border border-[#E5DFD2] shadow-xl">
                 <div className="relative rounded-xl overflow-hidden aspect-4/3 sm:aspect-16/10 lg:aspect-4/3 bg-[#E5DFD2]/30">
                   <img
-                    src="/src/assets/images/hero_hyderabadi_dum_biryani_1791539413189.jpg"
+                    src="/images/hero_hyderabadi_dum_biryani_1791539413189.jpg"
                     alt="Authentic Royal Hyderabadi Dum Biryani served in a traditional copper handi with fresh herbs"
                     className="w-full h-full object-cover transition-transform duration-700 hover:scale-103"
                     loading="eager"

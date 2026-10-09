@@ -27,7 +27,7 @@ export const SignatureDishes: React.FC<SignatureDishesProps> = ({ onSelectCatego
       categoryLabel: 'Signature Delicacy',
       categoryId: 'biryani',
       description: 'Layered saffron-infused basmati rice and marinated meat, cooked gently in sealed handis under gentle dum pressure.',
-      image: '/src/assets/images/hero_hyderabadi_dum_biryani_1791539413189.jpg',
+      image: '/images/hero_hyderabadi_dum_biryani_1791539413189.jpg',
       alt: 'Royal Hyderabadi Dum Biryani in copper handi',
     },
     {
@@ -36,7 +36,7 @@ export const SignatureDishes: React.FC<SignatureDishesProps> = ({ onSelectCatego
       categoryLabel: 'Sharing Platters',
       categoryId: 'mandi',
       description: 'Fragrant smoked basmati rice crowned with tender roasted chicken or lamb, garnished with toasted nuts and fresh citrus.',
-      image: '/src/assets/images/dish_hyderabadi_mandi_1791539424987.jpg',
+      image: '/images/dish_hyderabadi_mandi_1791539424987.jpg',
       alt: 'Hyderabadi Arabian Mandi feast platter with roasted chicken and nuts',
     },
     {
@@ -45,7 +45,7 @@ export const SignatureDishes: React.FC<SignatureDishesProps> = ({ onSelectCatego
       categoryLabel: 'Heritage Recipe',
       categoryId: 'haleem',
       description: 'The world-celebrated delicacy slow-cooked for hours with meat, lentils, pounded wheat, and spices into a velvety consistency.',
-      image: '/src/assets/images/dish_signature_haleem_1791539434981.jpg',
+      image: '/images/dish_signature_haleem_1791539434981.jpg',
       alt: 'Authentic Hyderabadi Haleem garnished with fried onions, ginger and cashews',
     },
     {
@@ -54,7 +54,7 @@ export const SignatureDishes: React.FC<SignatureDishesProps> = ({ onSelectCatego
       categoryLabel: 'Charcoal Tandoor',
       categoryId: 'kebabs',
       description: 'Skewered lamb seekh and succulent chicken boti, char-grilled over embers with fresh mint and tangy red onions.',
-      image: '/src/assets/images/dish_grilled_kebabs_1791539445523.jpg',
+      image: '/images/dish_grilled_kebabs_1791539445523.jpg',
       alt: 'Sizzling platter of chargrilled kebabs with mint chutney',
     },
     {
@@ -63,7 +63,7 @@ export const SignatureDishes: React.FC<SignatureDishesProps> = ({ onSelectCatego
       categoryLabel: 'Hyderabadi Café',
       categoryId: 'beverages',
       description: 'Velvety rich tea prepared with slow-reduced creamy milk and strong tea decoction, traditionally accompanied by crisp Osmania biscuits.',
-      image: '/src/assets/images/dish_irani_chai_dessert_1791539457004.jpg',
+      image: '/images/dish_irani_chai_dessert_1791539457004.jpg',
       alt: 'Glass of steaming Hyderabadi Irani chai and Osmania biscuits',
     },
     {
@@ -72,7 +72,7 @@ export const SignatureDishes: React.FC<SignatureDishesProps> = ({ onSelectCatego
       categoryLabel: 'Royal Sweets',
       categoryId: 'desserts',
       description: 'Indulgent traditional favorites including Shahi Tukda soaked in saffron rabri and sun-dried stewed Qubani ka Meetha.',
-      image: '/src/assets/images/dish_irani_chai_dessert_1791539457004.jpg',
+      image: '/images/dish_irani_chai_dessert_1791539457004.jpg',
       alt: 'Hyderabadi Shahi Tukda dessert with pistachios and saffron rabri',
     },
   ];

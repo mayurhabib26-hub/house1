@@ -64,7 +64,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Tender baby mutton marinated in traditional Hyderabadi spices, layered with saffron basmati rice and slow-cooked in sealed dum. Served with mirchi ka salan and raita.',
     price: '£12.95',
     dietary: ['Halal', 'Signature'],
-    image: '/src/assets/images/hero_hyderabadi_dum_biryani_1791539413189.jpg',
+    image: '/images/hero_hyderabadi_dum_biryani_1791539413189.jpg',
     serves: '1 person',
   },
   {
@@ -103,7 +103,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Slow-roasted, fork-tender spiced lamb shank served over a grand platter of smoke-infused Mandi basmati rice, topped with roasted cashews and raisins.',
     price: '£18.50',
     dietary: ['Halal', 'Signature'],
-    image: '/src/assets/images/dish_hyderabadi_mandi_1791539424987.jpg',
+    image: '/images/dish_hyderabadi_mandi_1791539424987.jpg',
     serves: '1–2 persons',
   },
   {
@@ -133,7 +133,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'The world-famous Pista House recipe: slow-cooked for 10 hours with prime mutton, broken wheat, lentils, and pure ghee. Garnished with golden fried onions, ginger slivers, and fresh mint.',
     price: '£10.50',
     dietary: ['Halal', 'Signature'],
-    image: '/src/assets/images/dish_signature_haleem_1791539434981.jpg',
+    image: '/images/dish_signature_haleem_1791539434981.jpg',
     serves: '1 person',
   },
   {
@@ -154,7 +154,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Finely minced spiced lamb blended with fresh coriander, mint, green chilies, and roasted cumin, skewered and charred over embers.',
     price: '£9.95',
     dietary: ['Halal', 'Chef Special'],
-    image: '/src/assets/images/dish_grilled_kebabs_1791539445523.jpg',
+    image: '/images/dish_grilled_kebabs_1791539445523.jpg',
     serves: '4 skewers',
   },
   {
@@ -193,7 +193,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Brewed with slow-simmered rich condensed milk and aromatic tea decoction, creating a creamy froth. Served traditionally.',
     price: '£3.00',
     dietary: ['Vegetarian', 'Signature'],
-    image: '/src/assets/images/dish_irani_chai_dessert_1791539457004.jpg',
+    image: '/images/dish_irani_chai_dessert_1791539457004.jpg',
   },
   {
     id: 'bev2',
@@ -228,7 +228,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Crisp ghee-fried bread triangles soaked in fragrant saffron-infused sugar syrup, topped with rich thickened rabri, pistachios, and almonds.',
     price: '£5.95',
     dietary: ['Vegetarian', 'Signature'],
-    image: '/src/assets/images/dish_irani_chai_dessert_1791539457004.jpg',
+    image: '/images/dish_irani_chai_dessert_1791539457004.jpg',
   },
   {
     id: 'd2',
